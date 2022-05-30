@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things tehcnology 
 - 🌱 I’m currently learning NextJS, Svelte and 
 - 💞️ I’m looking to collaborate on helping people adopt technology faster.
-- 📫 How to reach srinivasa@truenorth.co.in
+- 📫 How to reach srinivasa.i@kelpglobal.com
 
 <!---
 srinivasarajui-tn/srinivasarajui-tn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
